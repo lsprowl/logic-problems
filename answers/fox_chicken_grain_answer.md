@@ -1,7 +1,7 @@
 # Fox, Chicken, Grain Answer
 
 |Starting Side              |Action                       |Ending Side                |
-|:-------------------------:|:---------------------------:|:-------------------------:|
+|---------------------------|-----------------------------|---------------------------|
 |farmer, fox, chicken, grain|                             |                           |
 |fox, grain                 |farmer carries across chicken|farmer, chicken            |
 |farmer, fox, grain         |farmer returns               |chicken                    |
