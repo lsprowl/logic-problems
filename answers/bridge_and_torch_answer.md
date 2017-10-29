@@ -3,7 +3,7 @@
 Yes, they can all cross in 15 minutes.
 
 |Starting Side|Action              |Ending Side|Elapsed Time|
-|-------------|--------------------|-----------|:----------:|
+|-------------|:------------------:|-----------|:----------:|
 | A, B, C, D  |                    |           |  0 minutes |
 | C, D        |A, B &rarr; (2 mins)| A, B      |  2 minutes |
 | A, C, D     |&larr; A (1 min)    | B         |  3 minutes |
