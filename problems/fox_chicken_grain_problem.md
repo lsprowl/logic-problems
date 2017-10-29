@@ -7,3 +7,5 @@ cannot be left together unattended or the fox will eat the chicken. The chicken
 and bag of grain cannot be left together unattended or the chicken will eat the 
 grain. *How does the farmer carry himself, the fox, the chicken, and the bag of 
 grain across the river?*
+
+[Click to see answer](../answers/fox_chicken_grain_answer.md)
