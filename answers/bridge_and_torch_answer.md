@@ -1,6 +1,7 @@
 # Bridge and Torch Answer
 
 Yes, they can all cross in 15 minutes.
+
 |Starting Side|Action            |Ending Side|Elapsed Time|
 |:-----------:|------------------|:---------:|:----------:|
 | A,B,C,D     |                  |           |  0 minutes |
