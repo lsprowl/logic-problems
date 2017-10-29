@@ -1,18 +1,18 @@
 # Jealous Husbands Answer
 
-|Starting Side              ||||||Action             |Ending Side                ||||||
+Men A, B, and C are married to women a, b, and c, respectively.
 
-|Mrs.A|Mr.A|Mrs.B|Mr.B|Mrs.C|Mr.C|                   |Mrs.A|Mr.A|Mrs.B|Mr.B|Mrs.C|Mr.C|
-|:---:|:--:|:---:|:--:|:---:|:--:|-------------------|:---:|:--:|:---:|:--:|:---:|:--:|
-| X   | X  | X   | X  | X   | X  |                   |     |    |     |    |     |    |
-| X   | X  |     | X  |     | X  |Mrs.B, Mrs.C &larr;|     |    | X   |    | X   |    |
-| X   | X  | X   | X  |     |    |&rarr;Mrs.B        |     |    |     |    | X   |    |
-|     | X  |     | X  |     | X  |Mrs.A, Mrs.B &larr;| X   |    | X   |    | X   |    |
-| X   | X  |     | X  |     | X  |&rarr;Mrs.A        |     |    | X   |    | X   |    |
-| X   | X  |     |    |     |    |Mr.B, Mr.C &larr;  |     |    | X   | X  | X   | X  |
-| X   | X  | X   | X  |     |    |&rarr;Mrs.B, Mr.B  |     |    |     |    | X   | X  |
-| X   |    | X   |    |     |    |Mr.A, Mr.B &larr;  |     | X  |     | X  | X   | X  |
-| X   |    | X   |    | X   |    |&rarr;Mrs.C        |     | X  |     | X  |     | X  |
-|     |    |     |    | X   |    |Mrs.A, Mrs.B &larr;| X   | X  | X   | X  |     | X  |
-|     |    | X   |    | X   |    |&rarr;Mrs.B        | X   | X  |     | X  |     | X  |
-|     |    |     |    |     |    |Mrs.A, Mrs.B &larr;| X   | X  | X   | X  | X   | X  |
+|Starting Side|Action     |Ending Side|
+|-------------|-----------|-----------|
+| AaBbCc      |           |           |
+| AaB C       |b, c &rarr;|    b c    |
+| AaBbC       |&larr; b   |      c    |
+| A B C       |a, b &rarr;|  a b c    |
+| AaB C       |&larr; a   |    b c    |
+| Aa          |B, C &rarr;|   BbCc    |
+| AaBb        |&larr; b, B|     Cc    |
+|  a b        |A, B &rarr;| A B Cc    |
+|  a b c      |&larr; c   | A B C     |
+|  a          |a, b &rarr;| A BbCc    |
+|  a b        |&larr; b   | A B Cc    |
+|             |a, b &rarr;| AaBbCc    |
