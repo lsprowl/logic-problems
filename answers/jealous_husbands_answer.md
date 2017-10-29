@@ -3,7 +3,7 @@
 Men A, B, and C are married to women a, b, and c, respectively.
 
 |Starting Side|Action     |Ending Side|
-|-------------|-----------|-----------|
+|-------------|:---------:|-----------|
 | AaBbCc      |           |           |
 | AaB C       |b, c &rarr;|    b c    |
 | AaBbC       |&larr; b   |      c    |
