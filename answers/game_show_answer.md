@@ -10,10 +10,10 @@ a goat behind it and so the odds of the car behind that door are 0/3 making the 
 car if you stay with your initial guess are 1/3 and the odds of winning a car 
 if you switch are 2/3. 
 
-**Switch doors.**
+**You should switch doors.**
 
-Looking at an exhaustive list of posibilities, assuming you always initially 
-pick door 1, shows this to be true.
+Looking at an exhaustive list of posibilities shows this to be true. Table 
+Result assumes you always initially pick Door 1.
 
 |Door 1|Door 2|Door 3|Result              |
 |:----:|:----:|:----:|--------------------|
@@ -21,6 +21,8 @@ pick door 1, shows this to be true.
 | goat | car  | goat |Switch and you win. |
 | goat | goat | car  |Switch and you win. |
 
+|Door 1|Door 2|Door 3|Result              |
+|:----:|:----:|:----:|--------------------|
 | car  | goat | goat |Stay and you win.   |
 | goat | car  | goat |Stay and you lose.  |
 | goat | goat | car  |Stay and you lose.  |
