@@ -14,4 +14,4 @@ there are four initial positions in which the next chamber does not contain a
 bullet and one initial position in which the next chamber does contain a 
 bullet. The odds of being shot are 1/5 and the odds of survival are 4/5 or 80%.
 
-Ask to spin the cylinder.
+**Ask to spin the cylinder.**

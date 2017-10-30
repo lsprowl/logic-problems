@@ -15,4 +15,4 @@ contain a bullet and two initial position in which the next chamber does
 contain a bullet. The odds of being shot are 2/4 and the odds of survival are 
 2/4 or 50%.
 
-Ask to spin the cylinder.
+**Ask to spin the cylinder.**
