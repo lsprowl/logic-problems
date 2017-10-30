@@ -12,8 +12,8 @@ if you switch are 2/3.
 
 **You should switch doors.**
 
-Looking at an exhaustive list of posibilities shows this to be true. Table 
-Result assumes you always initially pick Door 1.
+Looking at an exhaustive list of posibilities shows this to be true. Result in 
+tables assumes you always initially pick Door 1.
 
 |Door 1|Door 2|Door 3|Result              |
 |:----:|:----:|:----:|--------------------|
