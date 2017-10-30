@@ -8,8 +8,7 @@
 
 ### Probability Problems
 
-Russian Roulette Problems  
-- [one bullet](problems/russian_roulette_one_bullet_problem.md)  
-- [two adjacent bullets](problems/russian_roulette_two_adjacent_bullets_problem.md)  
-- [two nonadjacent bullets](problems/russian_roulette_two_nonadjacent_bullets_problem.md)  
-[Game Show Problem](problems/game_show_problem.md)
+[Russian Roulette Problem with one bullet](problems/russian_roulette_one_bullet_problem.md)  
+[Russian Roulette Problem with two adjacent bullets](problems/russian_roulette_two_adjacent_bullets_problem.md)  
+[Russian Roulette Problem with two nonadjacent bullets](problems/russian_roulette_two_nonadjacent_bullets_problem.md)  
+[Game Show Problem](problems/game_show_problem.md)  
