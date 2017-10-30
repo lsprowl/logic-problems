@@ -6,7 +6,7 @@ bullets in the six chambers, the odds of being shot with a bullet are 2/6. The
 odds for survival are therefore 4/6 or about 67%.
 
 ### Odds with unspun cylinder
-(pictures/RR2_adjacent_bullets.png)  
+![Russian Roulette with 2 adjacent bullets](pictures/RR2_adjacent_bullets.png)  
 Because there are two bullets in the six chambers and the first shot did not 
 have a bullet, the cylinder started on one of four empty chambers indicated by 
 the white circles above. With the cylinder advancing one chamber, clockwise 
