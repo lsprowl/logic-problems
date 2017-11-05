@@ -9,4 +9,4 @@ language of the gods, the words for yes and no are da and ja, but you do not
 know which word means yes and which word means no. *In three questions, how do 
 you determine the identities of True, False, and Random?*
 
-[Click to see answer](../answers/three_gods_problem.md)
+[Click to see answer](../answers/three_gods_answer.md)
