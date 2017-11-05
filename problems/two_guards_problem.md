@@ -7,4 +7,4 @@ truth and one guard always lies, but you do not know which guard is which. You
 are allowed to ask one question of one of the guards. *What one question do you 
 ask to determine which fork leads to Paradise?*
 
-[Click to see answer](../answer/two_guards_answer.md) 
+[Click to see answer](../answers/two_guards_answer.md) 
