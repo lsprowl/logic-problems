@@ -5,7 +5,7 @@ heavier or lighter than the other marbles with only three weighings on the
 balance scale. Assigning each marble a letter A-L, the following procedure will 
 determine which marble is flawed and if it is heavier or lighter.
 
-1. ABCD vs EFGH 
+1. ABCD vs EFGH  
   * if balanced: IJKL is flawed  
     2. ABC vs IJK  
       * if balanced: L is flawed  
