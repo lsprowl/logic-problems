@@ -15,11 +15,11 @@
 
 ### Balance Problems
 
-[Nine Coin Problem](problems/nine_coin_problem.md)
-[Twelve Marble Problem](problems/twelve_marble_problem.md)
+[Nine Coin Problem](problems/nine_coin_problem.md)  
+[Twelve Marble Problem](problems/twelve_marble_problem.md)  
 
 ### True/False Speaker Problems
 
-[Two Guards Problem](problems/two_guards_problem.md)
-[Three Gods Problem](problems/three_gods_problem.md)
+[Two Guards Problem](problems/two_guards_problem.md)  
+[Three Gods Problem](problems/three_gods_problem.md)  
 
