@@ -1,4 +1,4 @@
-# Bachelor King Problem
+# Three Dotted Hats Problem
 
 An old king is about to die and has no offspring to inherit the crown. He 
 summons the three wisest men from his kingdom and puts them to a test. He tells 
@@ -11,4 +11,4 @@ Then the king sends all three wise men into the room and tells his aide to put
 a dotted hat on all three. After a few minutes, one of the wise men returns and 
 proudly announces that he has a dot. *How did he know that he has a dot?*
 
-[Click to see answer](../answers/bachelor_king_answer.md)
+[Click to see answer](../answers/three_dotted_hats_answer.md)
