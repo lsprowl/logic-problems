@@ -35,6 +35,7 @@ answers, the prisoners can achieve 100% survival for all but the first prisoner
 questioned.
 
 with 100 prisoners (multiple of 3 seen by last prisoner):  
+
 |red hats left|yellow hats left|blue hats left|what the 100th prisoner says|
 |:-----------:|:--------------:|:------------:|----------------------------|
 | 0           |  0             | 0            | "red"                      |
@@ -48,6 +49,7 @@ with 100 prisoners (multiple of 3 seen by last prisoner):
 | 0           |  1             | 2            | "blue"                     |
 
 with 101 prisoners (multiple of 3, plus 1 seen by last prisoner):  
+
 |red hats left|yellow hats left|blue hats left|what the 101st prisoner says|
 |:-----------:|:--------------:|:------------:|----------------------------|
 | 1           |  0             | 0            | "red"                      |
@@ -61,6 +63,7 @@ with 101 prisoners (multiple of 3, plus 1 seen by last prisoner):
 | 1           |  1             | 2            | "blue"                     |
 
 with 102 prisoners (multiple of 3, plus 2 seen by last prisoner):  
+
 |red hats left|yellow hats left|blue hats left|what the 102nd prisoner says|
 |:-----------:|:--------------:|:------------:|----------------------------|
 | 2           |  0             | 0            | "red"                      |

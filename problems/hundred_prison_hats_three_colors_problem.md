@@ -10,8 +10,10 @@ answers correctly he is allowed to live, but if he answers incorrectly he is
 instantly executed. On the night before the line-up, the prisoners confer on a 
 stetegy to help themselves survive. *What strategy do the prisoners come up 
 with to ensure maximal survival? Would it change if there were 101 prisoners or 
-102 prisoners?* (HINT: It is possible to get it so that 100% of the prisoners 
-survive except the first prisoner questioned in which the probability of 
-survival is always 33%.)
+102 prisoners?*
+
+(HINT: It is possible to get it so that 100% of the prisoners survive except 
+the first prisoner questioned in which the probability of survival is always 
+33%.)
 
 [Click to see answer](../answers/hundred_prison_hats_three_colors_answer.md)
