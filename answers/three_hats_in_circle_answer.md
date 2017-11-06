@@ -1,4 +1,4 @@
-# Three Dotted Hats Answer
+# Three Hats in a Circle Answer
 
 The "after a few minutes" phrase is key here. The wise man knows that he has a 
 dot on his hat based on how long the other two wise men think about it.
