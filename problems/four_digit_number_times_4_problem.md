@@ -4,3 +4,5 @@
 order?*
 
 ABCD x 4 = DCBA
+
+[Click to see answer](../answers/four_digit_number_times_4_answer.md)
