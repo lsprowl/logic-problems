@@ -17,10 +17,10 @@ which ends in a 0. With a carry-over of 1 from the ones column we have
 
 ![Two number addition](pictures/sum2b.png)  
 
-In the hundreds column we see that A + A plus a possible carry-over must sum to 
-9. In order for the hundreds column to sum to 9, there must be a carry-over of 
-an odd number from the tens column. The only possible carry-over is a 1 which 
-means that A must be 4. We now have 
+In the hundreds column we see that A + A plus a possible carry-over from the 
+tens column must sum to 9. In order for the hundreds column to sum to 9, there 
+must be a carry-over of an odd number from the tens column. The only possible 
+carry-over is a 1 which means that A must be 4. We now have 
 
 ![Two number addition](pictures/sum2c.png)  
 
