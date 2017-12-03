@@ -1,4 +1,4 @@
-# Four Digit Number Time 4 Answer
+# Four Digit Number Times 4 Answer
 
 **2178**
 
