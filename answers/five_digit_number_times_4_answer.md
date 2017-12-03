@@ -58,8 +58,8 @@ C x 4 + 3 must begin with a 3 and also must end with a C. In order for C x 4 +
 3 to begin with a 3, C must be either 7, 8, or 9. From the table above we can 
 see that C x 4 always ends with an even number so C x 4 +3 always ends with an 
 odd number. This means that C must be odd and is now either 7 or 9. If C were 
-7, 7 x 4 + 3 is 31 in the last digit is not 7. This means that C is not 7 and 
-must be 9. We can see that 9 x 4 + 3 is 39 in which the last digit is 9. In the 
-end we see that the answer is 21978 and we have 
+7, 7 x 4 + 3 is 31 in which the last digit is not 7. This means that C is not 7 
+and must be 9. We can see that 9 x 4 + 3 is 39 in which the last digit is 9. In 
+the end we see that the answer is 21978 and we have 
 
 ![Five digit number times 4](pictures/five4f.png) 
