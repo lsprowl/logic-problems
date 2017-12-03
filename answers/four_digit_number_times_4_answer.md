@@ -49,4 +49,4 @@ end in an 8. This means that C must be either 2 or 7. However, C cannot be less
 than 4 because in the hundreds column 1 x 4 is 4. This means that C must be 7. 
 In the end we see that the answer is 2178 and we have 
 
-![Four digit number times 4](pictures/four4d.png) 
+![Four digit number times 4](pictures/four4e.png) 
