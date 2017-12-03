@@ -18,7 +18,7 @@ end in a 0. For 1 + A + C to end in a 0, 1 + A + C must equal 10. Carrying the
 
 ![Three number addition](pictures/sum3c.png)  
 
-In the hundred column we see that A must be 1. From before we know that A + B 
+In the hundreds column we see that A must be 1. From before we know that A + B 
 must equal 10, so B must be 9. We also know that 1 + A + C must equal 10, so C 
 must be 8. In the end we see that 
 
