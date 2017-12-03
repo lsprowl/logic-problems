@@ -29,10 +29,10 @@ TD [Seven Rainbow Hats Problem](problems/seven_rainbow_hats_problem.md)
 ### Number Problems
 
 TD [Three Number Addition Problem](problems/three_number_addition_problem.md)  
-[Four Digit Number Times 4 Problem](problems/four_digit_number_times_9_problem.md)  
-[Four Digit Number Times 9 Problem](problems/four_digit_number_times_4_problem.md)  
-[Five Digit Number Times 4 Problem](problems/five_digit_number_times_9_problem.md)  
-[Five Digit Number Times 9 Problem](problems/five_digit_number_times_4_problem.md)  
+[Four Digit Number Times 4 Problem](problems/four_digit_number_times_4_problem.md)  
+[Four Digit Number Times 9 Problem](problems/four_digit_number_times_9_problem.md)  
+[Five Digit Number Times 4 Problem](problems/five_digit_number_times_4_problem.md)  
+[Five Digit Number Times 9 Problem](problems/five_digit_number_times_9_problem.md)  
 
 ### Probability Problems
 
