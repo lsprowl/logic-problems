@@ -11,7 +11,8 @@ in the table below. If the race order is AFKPU, this determines that the 1st
 fastest horse is horse A.
 
 Race 7: Race the horses bolded and italicized in the table below (BCFGK) to 
-determine the 2nd and 3rd fastest horses.
+determine the 2nd and 3rd fastest horses. The 2nd fastest horse will be either 
+horse B or F and the 3rd fastest could be any of the remaining four horses.
 
 |     |   1   |   2   |   3   | 4 | 5 |
 |:---:|:-----:|:-----:|:-----:|:-:|:-:|
