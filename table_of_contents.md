@@ -56,6 +56,6 @@ TD [Seven Rainbow Hats Problem](problems/seven_rainbow_hats_problem.md)
 ### True/False Speaker Problems
 
 [Two Guards Problem](problems/two_guards_problem.md)  
-WIP [Three Princesses Problem](problems/three_princesses_problem.md)  
+[Three Princesses Problem](problems/three_princesses_problem.md)  
 WIP [Three Gods Problem](problems/three_gods_problem.md)  
 
