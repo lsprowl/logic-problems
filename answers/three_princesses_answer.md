@@ -13,4 +13,5 @@ oldest princess.
 
 * If sister 1 happens to be the middle (mischievious) princess, she might 
 indicate that the oldest or youngest princess is younger but it doesn't matter 
-because whomever you choose as the younger princess will not be her.
+because whomever you choose as the younger princess will not be the middle 
+princess.
