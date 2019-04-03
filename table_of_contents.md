@@ -52,6 +52,7 @@ TD [Seven Rainbow Hats Problem](problems/seven_rainbow_hats_problem.md)
 
 [Fox, Chicken, and Grain Problem](problems/fox_chicken_grain_problem.md)  
 [Bridge and Torch Problem](problems/bridge_and_torch_problem.md)  
+[Missionaries and Cannibals Problem](problems/missionaries_and_cannibals_problem.md)  
 [Jealous Husbands Problem](problems/jealous_husbands_problem.md)  
 
 ### True/False Speaker Problems
