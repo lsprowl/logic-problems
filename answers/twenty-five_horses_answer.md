@@ -2,11 +2,11 @@
 
 **7 races are necessary**
 
-Races 1-5: Divide the horses into five groups of five and race each group. This 
-is indicated by each column in the table below with the race order going 
-alphabetically down the rows.
+Races 1-5: Divide the horses into five groups of five horses and race each 
+group. This is indicated by each column in the table below with the race order 
+going alphabetically down the rows.
 
-Race 6: Race the top horse from each of the first five races together, 
+Race 6: Race the fastest horse from each of the first five races together, 
 indicated by the first row in the table below. If the race order is AFKPU, this 
 determines that the 1st fastest horse is horse A.
 
