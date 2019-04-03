@@ -5,15 +5,16 @@
 TD [Ages of Three Children Problem](problems/ages_of_three_children_problem.md)  
 TD [Ages of Five Workers Problem](problems/ages_of_five_workers_problem.md)  
 
-### Balance Scale Problems
-
-[Nine Coin Problem](problems/nine_coin_problem.md)  
-[Twelve Marble Problem](problems/twelve_marble_problem.md)  
-
 ### Geometry Problems
 
 TD [Spider in a Cubic Room Problem](problems/spider_in_cubic_room_problem.md)  
 TD [Spider in a Rectangular Room Problem](problems/spider_in_rectangular_room_problem.md)  
+
+### Grouping Problems
+
+[Twenty-Five Horses Problem](problems/twenty-five_horses_problem.md)  
+[Nine Coin Problem](problems/nine_coin_problem.md)  
+[Twelve Marble Problem](problems/twelve_marble_problem.md)  
 
 ### Hat Problems
 
