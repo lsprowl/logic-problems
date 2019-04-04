@@ -12,6 +12,7 @@ TD [Spider in a Rectangular Room Problem](problems/spider_in_rectangular_room_pr
 
 ### Grouping Problems
 
+[Post Office Package Problem](problems/post_office_package_problem.md)  
 [Twenty-Five Horses Problem](problems/twenty-five_horses_problem.md)  
 [Nine Coin Problem](problems/nine_coin_problem.md)  
 [Twelve Marble Problem](problems/twelve_marble_problem.md)  
