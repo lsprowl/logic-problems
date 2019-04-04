@@ -1,12 +1,13 @@
 # Post Office Package Answer
 
-**The weights are 2, 6, 18, and 54 lbs.**
+**The weights are 2, 6, 18, and 54 pounds.**
 
-Use the table below as a guide. For an even pounds weighted package, the left 
-and right side of the balance scale should be equal. For odd number weighted 
-packages, the left side should be higher when using the weights associated with 
-a package weighing one pound more and the left side should be lower when using 
-the weights associated with a package weighting one pound fewer.
+Use the table below as a guide with the package weight shown in the `box`. For 
+an even pounds weighted package, the left and right side of the balance scale 
+should be equal. For odd pounds weighted packages, the left side should be 
+higher when using the weights associated with a package weighing one pound more 
+and the left side should be lower when using the weights associated with a 
+package weighting one pound fewer.
 
 | left side |right side|
 |:---------:|:--------:|
