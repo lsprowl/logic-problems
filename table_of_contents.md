@@ -7,8 +7,9 @@ TD [Ages of Five Workers Problem](problems/ages_of_five_workers_problem.md)
 
 ### Geometry Problems
 
-TD [Spider in a Cubic Room Problem](problems/spider_in_cubic_room_problem.md)  
-TD [Spider in a Rectangular Room Problem](problems/spider_in_rectangular_room_problem.md)  
+[Ant in a Cubic Room Problem](problems/ant_in_cubic_room_problem.md)  
+[Spider and Fly Problem](problems/spider_and_fly_problem.md)  
+TD [Ant in a Rectangular Room Problem](problems/ant_in_rectangular_room_problem.md)  
 
 ### Grouping Problems
 
