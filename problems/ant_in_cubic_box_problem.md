@@ -1,4 +1,4 @@
-# Ant in Cubic Box Problem
+# Ant in a Cubic Box Problem
 
 An ant is sitting in the corner of a cubic box and wishes to walk to the 
 extreme opposite corner of the box. Each side of the box measures 1 meter. 
