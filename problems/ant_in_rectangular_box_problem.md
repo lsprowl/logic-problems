@@ -1,4 +1,4 @@
-# Ant in Rectangular Box Problem
+# Ant in a Rectangular Box Problem
 
 An ant is sitting in the corner of a rectangular box and wishes to walk to the 
 extreme opposite corner of the box. The sides of the box measure 3x4x5 meters. 
