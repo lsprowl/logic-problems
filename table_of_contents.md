@@ -5,11 +5,17 @@
 TD [Ages of Three Children Problem](problems/ages_of_three_children_problem.md)  
 TD [Ages of Five Workers Problem](problems/ages_of_five_workers_problem.md)  
 
+### Distance Problems
+
+TD [Human and Train on a Bridge Problem](problems/human_and_train_on_bridge_problem.md)  
+TD [Camel and Bananas Problem](problems/camel_and_bananas_problem.md)  
+TD [Flying Around the World Problem](problems/flying_around_the_world_problem.md)  
+
 ### Geometry Problems
 
 [Ant in a Cubic Box Problem](problems/ant_in_cubic_box_problem.md)  
 [Spider and Fly Problem](problems/spider_and_fly_problem.md)  
-[Ant in a Rectangular Box Problem](problems/ant_in_rectangular_box_problem.md)  
+WIP [Ant in a Rectangular Box Problem](problems/ant_in_rectangular_box_problem.md)  
 
 ### Grouping Problems
 
@@ -31,6 +37,7 @@ TD [Seven Rainbow Hats Problem](problems/seven_rainbow_hats_problem.md)
 
 [Measuring Five Liters Problem](problems/measuring_five_liters_problem.md)  
 [Measuring Four Gallons Problem](problems/measuring_four_gallons_problem.md)  
+[Measuring Four and Four Pints Problem](problems/measuring_four_and_four_pints_problem.md)  
 [Measuring Five and Eight Pints Problem](problems/measuring_five_and_eight_pints_problem.md)  
 [Burning Two Ropes Problem](problems/burning_two_ropes_problem.md)
 
