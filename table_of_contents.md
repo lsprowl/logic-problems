@@ -39,6 +39,7 @@ TD [Seven Rainbow Hats Problem](problems/seven_rainbow_hats_problem.md)
 [Measuring Four Gallons Problem](problems/measuring_four_gallons_problem.md)  
 [Measuring Four and Four Pints Problem](problems/measuring_four_and_four_pints_problem.md)  
 [Measuring Five and Eight Pints Problem](problems/measuring_five_and_eight_pints_problem.md)  
+[Measuring Fifteen Minutes Problem](problems/measuring_fifteen_minutes_problem.md)  
 [Burning Two Ropes Problem](problems/burning_two_ropes_problem.md)
 
 ### Number Problems
