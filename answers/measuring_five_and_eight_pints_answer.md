@@ -2,11 +2,11 @@
 
 Follow the steps below: 
 
-- Pour water between buckets until you get step 5.
-- Drink the 2 solo pints bolded in step 5 to empty the six pint bucket.
-- Pour water between buckets until you get five and eight pints.
+- Pour water between barrels until you get to step 5.
+- Drink the 2 solo pints bolded in step 5 to empty the six pint barrel.
+- Pour water between barrels until you get five and eight pints.
 
-|step|fifteen pint bucket|ten pint bucket|six pint bucket|
+|step|fifteen pint barrel|ten pint barrel|six pint barrel|
 |---:|:-----------------:|:-------------:|:-------------:|
 |  1 | 15                |  0            |   0           |
 |  2 |  9                |  0            |   6           |
