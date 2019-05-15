@@ -40,6 +40,7 @@ TD [Seven Rainbow Hats Problem](problems/seven_rainbow_hats_problem.md)
 [Measuring Four and Four Pints Problem](problems/measuring_four_and_four_pints_problem.md)  
 [Measuring Five and Eight Pints Problem](problems/measuring_five_and_eight_pints_problem.md)  
 [Measuring Fifteen Minutes Problem](problems/measuring_fifteen_minutes_problem.md)  
+[Measuring Nine Minutes Problem](problems/measuring_nine_minutes_problem.md)  
 [Burning Two Ropes Problem](problems/burning_two_ropes_problem.md)
 
 ### Number Problems
@@ -57,6 +58,7 @@ TD [Seven Rainbow Hats Problem](problems/seven_rainbow_hats_problem.md)
 [Russian Roulette Problem with two adjacent bullets](problems/russian_roulette_two_adjacent_bullets_problem.md)  
 [Russian Roulette Problem with two nonadjacent bullets](problems/russian_roulette_two_nonadjacent_bullets_problem.md)  
 [Game Show Problem](problems/game_show_problem.md)  
+TD [Birthday Paradox Problem](problems/birthday_paradox_problem.md)  
 
 ### River Crossing Problems
 
