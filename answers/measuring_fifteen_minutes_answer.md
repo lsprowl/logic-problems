@@ -4,7 +4,7 @@ Follow the steps below:
 
 1) Start both hourglasses at the same time
 2) When the seven minute hourglass runs out, you will know 7 minutes have 
-passed and the eleven minute hourglass will have 4 more minutes left in it
+passed and the eleven minute hourglass will have 4 more minutes left
 3) Flip the seven minute hourglass
 4) When the eleven minute hourglass runs out, you will know 4 more minutes have 
 passed for a total of 11 minutes and the seven minute hourglass will have been 
