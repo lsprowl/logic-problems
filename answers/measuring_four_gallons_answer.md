@@ -1,6 +1,6 @@
 # Measuring Four Gallons Answer
 
-Follow the following steps
+Follow the steps below:
 
 1) Fill up the five gallon bucket with 5 gallons of water from the spigot
 2) Pour from the five gallon bucket into the three gallon bucket, filling the 
